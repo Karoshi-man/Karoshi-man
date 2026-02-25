@@ -1,18 +1,32 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: ["master", "main"]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Kyiv
+          user: Karoshi-man
           template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Kyiv
           config_animations: yes
+          config_display: large
+          
+          # 3D Calendar (як на скріншоті)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # Languages (статистика використання мов)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
