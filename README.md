@@ -1,26 +1,49 @@
-# Me IRL fr
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Martin+Fesenko;Machine+Learning+%26+Data+Engineer;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+<a href="https://linkedin.com/in/martin-fes"><img src="https://img.shields.io/badge/LinkedIn-F72585?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://fesenko-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:Mfesenko2003@gmail.com"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/LustForCode/"><img src="https://img.shields.io/badge/LeetCode-F72585?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="github-metrics.svg" width="800" alt="GitHub Metrics" />
+</div>
+
+<br/>
+
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
-  <img alt="coding" width="650" style="margin-bottom: 1px;" src="./me_irl.gif">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,postgresql,aws&theme=dark" alt="Skills 1" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,pytorch,git,github&theme=dark" alt="Skills 2" />
 </p>
 
-# 💫 About Me:
-🔭 I’m currently working on my Portfolio<br><br>🌱 I’m currently learning Django, PostgreSQL, WebSockets, CI/CD<br><br>📫 How to reach me Mfesenko2003@gmail.com
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-fes) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19803864) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xoxolandreich) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@LustForCode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mfesenko2003@gmail.com) 
+<h3 align="center">📈 LeetCode Stats</h3>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/LustForCode?theme=radical&font=Fira%20Code&ext=activity" width="600" alt="LeetCode Stats"/>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Karoshi-man&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Karoshi-man&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karoshi-man&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Karoshi-man&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Karoshi-man&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="800" alt="GitHub Trophies" />
+</div>
 
+<br/>
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karoshi-man/Karoshi-man/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karoshi-man/Karoshi-man/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Karoshi-man/Karoshi-man/output/github-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karoshi-man/Karoshi-man/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karoshi-man/Karoshi-man/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Karoshi-man/Karoshi-man/output/github-snake.svg" />
 </picture>
+</div>
