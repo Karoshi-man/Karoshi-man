@@ -26,16 +26,11 @@
 
 <br/>
 
-<h3 align="center">📈 LeetCode Stats</h3>
+<h3 align="center">🔥 GitHub Stats & Streaks</h3>
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/LustForCode?theme=radical&font=Fira%20Code&ext=activity" width="600" alt="LeetCode Stats"/>
-</div>
-
-<br/>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Karoshi-man&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="800" alt="GitHub Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karoshi-man&theme=radical&hide_border=true&background=0d1117" width="800" alt="GitHub Streak" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karoshi-man&theme=radical&hide_border=true&layout=compact&bg_color=0d1117" width="800" alt="Top Languages" />
 </div>
 
 <br/>
