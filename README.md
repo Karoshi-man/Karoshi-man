@@ -29,8 +29,12 @@
 <h3 align="center">🔥 GitHub Stats & Streaks</h3>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karoshi-man&theme=radical&hide_border=true&background=0d1117" width="800" alt="GitHub Streak" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karoshi-man&theme=radical&hide_border=true&layout=compact&bg_color=0d1117" width="800" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" alt="Pacman" />
 </div>
 
 <br/>
