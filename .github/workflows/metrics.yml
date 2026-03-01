@@ -11,12 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # КРОК 1: Ваші основні метрики (календар, мови тощо)
+      - name: Generate Main Metrics
+        uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Karoshi-man
           template: classic
-          config_theme: dark
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Kyiv
           config_animations: yes
@@ -31,3 +33,14 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+
+      - name: Generate Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Karoshi-man
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
