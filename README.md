@@ -7,15 +7,10 @@
 
 
 <div align="center">
-
-<a href="https://linkedin.com/in/martin-fes"><img src="https://img.shields.io/badge/LinkedIn-F72585?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<a href="https://fesenko-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-
-<a href="mailto:Mfesenko2003@gmail.com"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<a href="https://leetcode.com/LustForCode/"><img src="https://img.shields.io/badge/LeetCode-F72585?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-
+<a href="https://linkedin.com/in/martin-fes"><img src="https://img.shields.io/badge/LinkedIn-F72585?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://fesenko-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-B5179E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:Mfesenko2003@gmail.com"><img src="https://img.shields.io/badge/Email-7209B7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://leetcode.com/LustForCode/"><img src="https://img.shields.io/badge/LeetCode-4361EE?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </div>
 
 
