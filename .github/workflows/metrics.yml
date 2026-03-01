@@ -35,7 +35,7 @@ jobs:
           plugin_languages_limit: 8
 
       - name: Generate Achievements
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: github-metrics-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
