@@ -47,9 +47,16 @@
 </p>
 
 
-
 <br/>
 
+
+<h3 align="center">🏆 Achievements</h3>
+<div align="center">
+  <img src="github-metrics-achievements.svg" width="800" alt="GitHub Achievements" />
+</div>
+
+
+<br/>
 
 
 <h3 align="center">GitHub Stats & Streaks</h3>
