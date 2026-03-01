@@ -16,16 +16,17 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Karoshi-man
           template: classic
+          config_theme: dark
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Kyiv
           config_animations: yes
           config_display: large
           
-          # 3D Calendar (як на скріншоті)
+          # 3D Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # Languages (статистика використання мов)
+          # Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
