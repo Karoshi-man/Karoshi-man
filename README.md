@@ -52,15 +52,26 @@
 <br/>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Karoshi-man/Karoshi-man/main/Coder.gif" align="right" width="150" height="150" alt="Coding" />
+  <img src="https://fesenko-portfolio.vercel.app/tech-icons/coder.gif" align="right" width="300" alt="Coding" />
   
-  <h3>👨‍💻 About me</h3>
+  <br/>
+  <br/>
+  <br/>
+  
   <p>
-    📍 <b>Location:</b> Lviv, Ukraine<br><br>
-    🎓 <b>Education:</b> Master's in Data Engineering<br><br>
-    🧠 <b>Focus:</b> Machine Learning & NLP<br><br>
-    🛠️ <b>Passion:</b> Building Scalable Data Pipelines<br><br>
-    🚀 <b>Off-screen:</b> KSP, "Suits" & Vintage hunting
+    
+  - 🔭 Open to work as **Data Enginner / ML Enginner**
+
+  - 🎓 CS grad | First-year MSc, Data Engineering (LPNU)
+  
+  - 🌱 I’m currently learning **ETL, Big Data, SQL & Query Optimization**
+  
+  - 💼 Check out my [portfolio](https://fesenko-portfolio.vercel.app/)
+  
+  - 📫 How to reach me **mfesenko2003@gmail.com**
+  
+  - 📝 Authoring a paper on YOLO & Mask R-CNN for satellite imagery (in progress)
+  
   </p>
 </div>
 
