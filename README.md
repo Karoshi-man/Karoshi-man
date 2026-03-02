@@ -70,7 +70,7 @@
   
   - 📫 How to reach me **mfesenko2003@gmail.com**
   
-  - 📝 Authoring a paper on YOLO & Mask R-CNN for satellite imagery (in progress)
+  - 📝 Authoring a paper on YOLO & Mask R-CNN for satellite imagery
   
   </p>
 </div>
