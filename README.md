@@ -31,32 +31,26 @@
 
 
 
-<h3 align="center">Tech Stack</h3>
-
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://fesenko-portfolio.vercel.app/tech-icons/pytorch.svg" width="50" />
    <img src="https://fesenko-portfolio.vercel.app/tech-icons/numpy.svg" width="50" />
-  <img src="https://fesenko-portfolio.vercel.app/tech-icons/kubernetes.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</p>
+<p align="center">
   <img src="https://fesenko-portfolio.vercel.app/tech-icons/git.svg" width="50" />
+  <img src="https://fesenko-portfolio.vercel.app/tech-icons/kubernetes.svg" width="50" />
   <img src="https://fesenko-portfolio.vercel.app/tech-icons/azure.svg" width="50" />
   <img src="https://fesenko-portfolio.vercel.app/tech-icons/postgresql.svg" width="50" />
   <img src="https://fesenko-portfolio.vercel.app/tech-icons/linux.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </p>
 
 
 <br/>
 
-
-<h3 align="center">🏆 Achievements</h3>
-<div align="center">
-  <img src="github-metrics-achievements.svg" width="800" alt="GitHub Achievements" />
-</div>
-
-
-<br/>
 
 
 <h3 align="center">GitHub Stats & Streaks</h3>
