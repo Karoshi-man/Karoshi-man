@@ -52,8 +52,9 @@
 <br/>
 
 <div align="left">
-  <img src="https://fesenko-portfolio.vercel.app/tech-icons/coder.gif" align="right" width="300" alt="Coding" />
+  <img src="https://fesenko-portfolio.vercel.app/tech-icons/coder.gif" align="right" width="290" alt="Coding" />
   
+  <br/>
   <br/>
   <br/>
   <br/>
