@@ -51,9 +51,21 @@
 
 <br/>
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Karoshi-man/Karoshi-man/main/Coder.gif" align="right" width="150" height="150" alt="Coding" />
+  
+  <h3>👨‍💻 About me</h3>
+  <p>
+    📍 <b>Location:</b> Lviv, Ukraine<br><br>
+    🎓 <b>Education:</b> Master's in Data Engineering<br><br>
+    🧠 <b>Focus:</b> Machine Learning & NLP<br><br>
+    🛠️ <b>Passion:</b> Building Scalable Data Pipelines<br><br>
+    🚀 <b>Off-screen:</b> KSP, "Suits" & Vintage hunting
+  </p>
+</div>
 
-
-<h3 align="center">GitHub Stats & Streaks</h3>
+<br clear="both"/>
+<br/>
 
 <div align="center">
 
